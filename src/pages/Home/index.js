@@ -5,6 +5,7 @@ import './styles.css';
 
 
 function App() {
+  console.log("renderizou")
   return (
     <div className="App">
       <Header />  
